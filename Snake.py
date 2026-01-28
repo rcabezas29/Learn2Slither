@@ -1,8 +1,5 @@
 import random
-
-class State:
-	def __init__(self):
-		pass
+from Action import Action
 
 class Snake:
 	def __init__(self, length: int = 3, position: tuple = (0, 0), board_width: int = 10, board_height: int = 10):
@@ -23,8 +20,8 @@ class Snake:
 		self.board_height = board_height
 		
 		# Generate random direction for body extension (up, down, left, right)
-		directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
-		direction = random.choice(directions)
+		directions = [(0, 1), (0, -1), (1, 0), (-1, 0)]
+		self.direction = random.choice(directions)
 		
 		# Keep trying until we find a valid placement
 		valid_placement = False
@@ -34,21 +31,19 @@ class Snake:
 			
 			# Add remaining segments contiguously
 			for i in range(1, length):
-				next_x = position[0] + direction[0] * i
-				next_y = position[1] + direction[1] * i
+				next_x = position[0] - self.direction[0] * i
+				next_y = position[1] - self.direction[1] * i
 				
 				# Check if segment is within bounds
 				if next_x < 0 or next_x >= board_width or next_y < 0 or next_y >= board_height:
 					valid_placement = False
 					# Try a new direction
-					direction = random.choice(directions)
+					self.direction = random.choice(directions)
 					break
 				
 				self.body.append((next_x, next_y))
-
-		self.state = State()
 	
-	def update_position(self, new_head_position: tuple):
+	def update_position(self, new_head_position: tuple, action: Action):
 		"""
 		Update the snake's position by moving the head to a new position
 		and shifting the body segments accordingly.
@@ -61,3 +56,14 @@ class Snake:
 		self.body.insert(0, new_head_position)
 		# Remove the last segment to maintain length
 		self.body.pop()
+
+		# Update direction based on action
+		match action:
+			case Action.UP:
+				self.direction = (0, -1)
+			case Action.DOWN:
+				self.direction = (0, 1)
+			case Action.LEFT:
+				self.direction = (-1, 0)
+			case Action.RIGHT:
+				self.direction = (1, 0)

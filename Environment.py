@@ -1,6 +1,6 @@
 from Snake import Snake
 import numpy as np
-from Agent import Action
+from Action import Action
 
 class Board:
 	def __init__(self, width: int = 10, height: int = 10):
@@ -62,11 +62,11 @@ class	Environment:
 		# Abort if the move would leave the board; the caller can catch this.
 		if (new_head[0] < 0 or new_head[0] >= self.board.width or
 			new_head[1] < 0 or new_head[1] >= self.board.height):
-			raise Exception("Snake has collided with the wall!")
+			raise Exception("Snake has collided with the wall! at position {}".format(new_head))
 
 		# If the snake would bite itself, ignore the move.
 		if tuple(new_head) in self.snake.body:
-			return
+			raise Exception("Snake has bitten itself!")
 
 		# Check for apple consumption
 		if tuple(new_head) == self.board.red_apple:
@@ -94,4 +94,4 @@ class	Environment:
 					self.board.green_apples.append(new_green_apple)
 					break
 
-		self.snake.update_position(tuple(new_head))
+		self.snake.update_position(tuple(new_head), action)

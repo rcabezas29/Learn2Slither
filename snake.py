@@ -4,8 +4,9 @@ from Environment import Environment
 import argparse
 import tkinter as tk
 from tqdm import tqdm
-from Agent import Action
-import numpy as np
+from Agent import Agent
+from State import State
+	
 
 def parse_arguments():
 	parser = argparse.ArgumentParser(
@@ -57,12 +58,11 @@ def parse_arguments():
 
 def main():
 	args = parse_arguments()
+	agent = Agent()
 
 	for session in tqdm(range(args.sessions)):
 		environment = Environment()
-		snake = environment.snake
-		board = environment.board
-		
+		state = State(environment)
 		if args.visual:
 			root = tk.Tk()
 			root.title(f"Snake Game - Session {session + 1}")
@@ -71,8 +71,8 @@ def main():
 			cells = {}
 			
 			# Initialize the grid with all cells
-			for row in range(board.height):
-				for col in range(board.width):
+			for row in range(environment.board.height):
+				for col in range(environment.board.width):
 					cell = tk.Label(root, width=6, height=3, borderwidth=1, relief="sunken", bg="white")
 					cell.grid(row=row, column=col)
 					cells[(row, col)] = cell
@@ -99,23 +99,22 @@ def main():
 					cell.config(bg="gray")
 				
 				# Draw red apple
-				red_cell = cells[(board.red_apple[1], board.red_apple[0])]
+				red_cell = cells[(environment.board.red_apple[1], environment.board.red_apple[0])]
 				red_cell.config(bg="red")
 				
 				# Draw green apples
-				for apple in board.green_apples:
+				for apple in environment.board.green_apples:
 					green_cell = cells[(apple[1], apple[0])]
 					green_cell.config(bg="green")
 				
 				# Draw snake
-				for snake_part in snake.body:
+				for snake_part in environment.snake.body:
 					snake_cell = cells[(snake_part[1], snake_part[0])]
-					snake_cell.config(bg="blue" if snake_part != snake.body[0] else "yellow")
-				
-				# Move snake with random action
-				action = np.random.choice(list(Action))
+					snake_cell.config(bg="blue" if snake_part != environment.snake.body[0] else "yellow")
+
 				try:
-					environment.execute_action(action)
+					environment.execute_action(agent.choose_action(state))
+					state.update(environment)
 				except:
 					game_running = False
 					root.quit()
@@ -131,8 +130,8 @@ def main():
 			game_running = True
 			while game_running:
 				try:
-					action = np.random.choice(list(Action))
-					environment.execute_action(action)
+					environment.execute_action(agent.choose_action(state))
+					state.update(environment)
 				except:
 					game_running = False
 
