@@ -111,11 +111,16 @@ def main():
 				for snake_part in environment.snake.body:
 					snake_cell = cells[(snake_part[1], snake_part[0])]
 					snake_cell.config(bg="blue" if snake_part != environment.snake.body[0] else "yellow")
-
+				
+				action = agent.choose_action(state)
 				try:
-					environment.execute_action(agent.choose_action(state))
+					reward = environment.execute_action(action)
+					next_state = State(environment)
+					agent.update_q_value(state, action, reward, next_state)
 					state.update(environment)
-				except:
+					agent.exploration_rate = max(0.01, agent.exploration_rate * 0.995)
+				except Exception as e:
+					agent.update_q_value(state, action, -42, None)
 					game_running = False
 					root.quit()
 					root.destroy()
@@ -129,11 +134,18 @@ def main():
 			# Non-visual mode: simple game loop without display
 			game_running = True
 			while game_running:
+				action = agent.choose_action(state)
 				try:
-					environment.execute_action(agent.choose_action(state))
+					reward = environment.execute_action(action)
+					next_state = State(environment)
+					agent.update_q_value(state, action, reward, next_state)
 					state.update(environment)
+					agent.exploration_rate = max(0.01, agent.exploration_rate * 0.995)
 				except:
+					agent.update_q_value(state, action, -42, None)
 					game_running = False
+	if args.save:
+		agent.save_q_table(args.save)
 
 if __name__ == "__main__":
 	main()
