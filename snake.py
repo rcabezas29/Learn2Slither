@@ -169,21 +169,10 @@ def main():
 		agent.save_q_table(args.save)
 
 	if results:
-		if initial_visual:
-			results_root = tk.Tk()
-			results_root.title("Training Results")
-			text = tk.Text(results_root, width=40, height=20)
-			text.pack(fill="both", expand=True)
-			text.insert("end", f"Game over, max length = {max_length}, max duration = {max_duration}\n\nFinal results:\n")
-			for session_num, score in results[-10:]:
-				text.insert("end", f"Session {session_num}: score {score}\n")
-			text.config(state="disabled")
-			results_root.mainloop()
-		else:
-			print(f"Game over, max length = {max_length}, max duration = {max_duration}")
-			print("\nFinal results:")
-			for session_num, score in results[-10:]:
-				print(f"Session {session_num}: score {score}")
+		print(f"Game over, max length = {max_length}, max duration = {max_duration}")
+		print("\nFinal results:")
+		for session_num, score in results[-10:]:
+			print(f"Session {session_num}: score {score}")
 
 if __name__ == "__main__":
 	main()

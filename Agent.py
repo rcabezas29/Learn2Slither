@@ -113,7 +113,12 @@ class Agent:
             filename: The file path to save the Q-table.
         """
         with open(filename, 'w') as f:
-            json.dump({str(k): v.tolist() for k, v in self.q_table.items()}, f)
+            json.dump(
+                {str(k): v.tolist() for k, v in self.q_table.items()},
+                f,
+                indent=2,
+                sort_keys=True
+            )
 
     def load_q_table(self, filename: str):
         """
