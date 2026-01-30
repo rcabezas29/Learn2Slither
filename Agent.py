@@ -15,7 +15,33 @@ class Agent:
         """
         Return a hashable state key for the Q-table.
         """
-        return state.as_tuple()
+        key = []
+        for direction in ["UP", "LEFT", "DOWN", "RIGHT"]:
+            i = 0
+            while (state.observations[direction][i] == '0'):
+                i += 1
+            if (state.observations[direction][i] == 'W') or (state.observations[direction][i] == 'S'):
+                if i == 0:
+                    key.append("DEATH_NEAR")
+                elif 1 <= i <= 2:
+                    key.append("DEATH_MID")
+                else:
+                    key.append("DEATH_FAR")
+            elif (state.observations[direction][i] == 'G'):
+                if i == 0:
+                    key.append("GREEN_NEAR")
+                elif 1 <= i <= 2:
+                    key.append("GREEN_MID")
+                else:
+                    key.append("GREEN_FAR")
+            elif (state.observations[direction][i] == 'R'):
+                if i == 0:
+                    key.append("RED_NEAR")
+                elif 1 <= i <= 2:
+                    key.append("RED_MID")
+                else:
+                    key.append("RED_FAR")
+        return tuple(key)
 
     def _ensure_state(self, state: State):
         """
@@ -88,3 +114,15 @@ class Agent:
         """
         with open(filename, 'w') as f:
             json.dump({str(k): v.tolist() for k, v in self.q_table.items()}, f)
+
+    def load_q_table(self, filename: str):
+        """
+        Load the Q-table from a file.
+        
+        Args:
+            filename: The file path to load the Q-table from.
+        """
+        with open(filename, 'r') as f:
+            data = json.load(f)
+            self.q_table = {eval(k): np.array(v) for k, v in data.items()}
+        self.exploration_rate = 0.01

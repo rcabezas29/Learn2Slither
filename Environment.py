@@ -24,14 +24,14 @@ class Board:
         
 
 class	Environment:
-    def __init__(self):
-        self.board = Board()
+    def __init__(self, size: int = 10):
+        self.board = Board(width=size, height=size)
         
         # Generate snake at a position that doesn't overlap with apples
         occupied_positions = set(self.board.green_apples + [self.board.red_apple])
         
         while True:
-            snake_head = (np.random.randint(0, self.board.width), np.random.randint(0, self.board.height))
+            snake_head = (np.random.randint(self.board.width / 4, self.board.width / 4 * 3), np.random.randint(self.board.height / 4, self.board.height / 4 * 3))
             
             # Try to create the snake
             self.snake = Snake(
@@ -47,7 +47,7 @@ class	Environment:
                 # No overlap, snake is valid
                 break
 
-    def execute_action(self, action: Action) -> int:
+    def execute_action(self, action: Action) -> float:
         new_head = list(self.snake.body[0])
         match action:
             case Action.UP:
@@ -96,6 +96,13 @@ class	Environment:
                     self.board.green_apples.append(new_green_apple)
                     reward = 10
                     break
+
+        # distance_to_green = min( 
+            # np.linalg.norm(np.array(new_head) - np.array(apple)) for apple in self.board.green_apples
+        # )
+        # distance_to_red = np.linalg.norm(np.array(new_head) - np.array(self.board.red_apple))
+        # reward += 1 / (distance_to_red + 1e-5) * - 2  # Small penalty for getting closer to red apple
+        # reward += 1 / (distance_to_green + 1e-5) * 4  # Small bonus for getting closer to green apples
 
         self.snake.update_position(tuple(new_head), action)
         return reward
