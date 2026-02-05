@@ -1,6 +1,7 @@
 from enum import Enum
 from Environment import Environment
 
+
 class Cell(Enum):
     EMPTY = "0"
     WALL = "W"
@@ -12,10 +13,11 @@ class Cell(Enum):
 
 DIRECTIONS = {
     "UP":    (0, -1),
-	"LEFT":  (-1, 0),
-	"DOWN":  (0, 1),
-	"RIGHT": (1, 0),
+    "LEFT":  (-1, 0),
+    "DOWN":  (0, 1),
+    "RIGHT": (1, 0),
 }
+
 
 class State:
     """
@@ -106,13 +108,14 @@ class State:
             dx, dy = DIRECTIONS[name]
             out[name] = self._ray(dx, dy, environment)
         return out
-    
+
     def update(self, environment: Environment):
         """
         Update the observations based on the current environment state.
         """
         self.observations = self.vision(environment)
-        snake_direction = (environment.snake.direction[0], environment.snake.direction[1])
+        snake_direction = (
+            environment.snake.direction[0], environment.snake.direction[1])
         for name, (dx, dy) in DIRECTIONS.items():
             if (dx, dy) == snake_direction:
                 self.direction = name

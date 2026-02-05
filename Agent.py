@@ -3,6 +3,7 @@ from Action import Action
 from State import State
 import json
 
+
 class Agent:
     def __init__(self):
         # Q-table: {state_tuple: np.array([q_up, q_down, q_left, q_right])}
@@ -20,7 +21,8 @@ class Agent:
             i = 0
             while (state.observations[direction][i] == '0'):
                 i += 1
-            if (state.observations[direction][i] == 'W') or (state.observations[direction][i] == 'S'):
+            if ((state.observations[direction][i] == 'W') or
+                    (state.observations[direction][i] == 'S')):
                 if i == 0:
                     key.append("DEATH_NEAR")
                 elif 1 <= i <= 2:
@@ -55,12 +57,11 @@ class Agent:
     def choose_action(self, state: State) -> Action:
         """
         Choose an action based on the current state.
-        
+
         Args:
             state: The current state object.
         """
         state_key = self._ensure_state(state)
-        # Return a random action but it could not be the opposite of the current direction
         possible_actions = [Action.UP, Action.DOWN, Action.LEFT, Action.RIGHT]
         match state.direction:
             case "UP":
@@ -81,13 +82,15 @@ class Agent:
             for action in invalid_actions:
                 q_values[action.value] = -np.inf
             best_value = np.max(q_values)
-            best_actions = [a for a in possible_actions if q_values[a.value] == best_value]
+            best_actions = [
+                a for a in possible_actions if q_values[a.value] == best_value]
             return np.random.choice(best_actions)
 
-    def update_q_value(self, state: State, action: Action, reward: int, next_state: State):
+    def update_q_value(self, state: State, action: Action, reward: int,
+                       next_state: State):
         """
         Update the Q-value for a given state and action.
-        
+
         Args:
             state: The current state object.
             action: The action taken.
@@ -108,7 +111,7 @@ class Agent:
     def save_q_table(self, filename: str):
         """
         Save the Q-table to a file.
-        
+
         Args:
             filename: The file path to save the Q-table.
         """
@@ -123,7 +126,7 @@ class Agent:
     def load_q_table(self, filename: str):
         """
         Load the Q-table from a file.
-        
+
         Args:
             filename: The file path to load the Q-table from.
         """
