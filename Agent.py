@@ -133,4 +133,3 @@ class Agent:
         with open(filename, 'r') as f:
             data = json.load(f)
             self.q_table = {eval(k): np.array(v) for k, v in data.items()}
-        self.exploration_rate = 0.01

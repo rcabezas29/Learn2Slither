@@ -63,6 +63,8 @@ def main():
     results = []
     if args.load:
         agent.load_q_table(args.load)
+    if args.dontlearn:
+        agent.exploration_rate = 0.01
 
     max_length, max_duration = 0, 0
     for session in tqdm(range(args.sessions)):
