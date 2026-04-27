@@ -1,0 +1,50 @@
+{
+  "('DEATH_FAR', 'DEATH_FAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    0.0,
+    -0.35,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_MID', 'DEATH_MID', 'DEATH_NEAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_FAR', 'DEATH_FAR')": [
+    0.0,
+    -0.5774999999999999,
+    -0.5774999999999999,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_MID', 'DEATH_FAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'DEATH_NEAR', 'DEATH_FAR')": [
+    0.0,
+    -42.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'GREEN_MID', 'DEATH_FAR', 'DEATH_FAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'RED_MID', 'DEATH_MID', 'DEATH_FAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('GREEN_MID', 'DEATH_FAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ]
+}

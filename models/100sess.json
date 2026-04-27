@@ -1,0 +1,2444 @@
+{
+  "('DEATH_FAR', 'DEATH_FAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -0.9999993298982236,
+    -0.9999993298982236,
+    -0.9999992201686088,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_FAR', 'DEATH_MID', 'DEATH_FAR')": [
+    0.0,
+    -0.5774999999999999,
+    0.0,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_FAR', 'DEATH_MID', 'DEATH_MID')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_FAR', 'DEATH_MID', 'DEATH_NEAR')": [
+    -1.3105120832005661,
+    -1.320270777109375,
+    -0.9999999999359852,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_FAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -0.9999996463717002,
+    0.0,
+    -0.9999997168819994,
+    -1.2747415798363586
+  ],
+  "('DEATH_FAR', 'DEATH_FAR', 'DEATH_NEAR', 'DEATH_MID')": [
+    -0.9943119909368943,
+    0.0,
+    -1.392811907257649,
+    -1.3354978978800927
+  ],
+  "('DEATH_FAR', 'DEATH_FAR', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    -1.6442259943749615,
+    -42.0,
+    -1.207045581893802,
+    -42.0
+  ],
+  "('DEATH_FAR', 'DEATH_FAR', 'DEATH_NEAR', 'GREEN_FAR')": [
+    -0.35,
+    0.0,
+    -0.35,
+    -0.35
+  ],
+  "('DEATH_FAR', 'DEATH_FAR', 'DEATH_NEAR', 'GREEN_MID')": [
+    -0.5774999999999999,
+    0.0,
+    -0.35,
+    -0.5774999999999999
+  ],
+  "('DEATH_FAR', 'DEATH_FAR', 'DEATH_NEAR', 'GREEN_NEAR')": [
+    -0.35,
+    0.0,
+    -0.35,
+    8.2149375
+  ],
+  "('DEATH_FAR', 'DEATH_FAR', 'DEATH_NEAR', 'RED_FAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_FAR', 'DEATH_FAR', 'DEATH_NEAR', 'RED_MID')": [
+    -0.5774999999999999,
+    0.0,
+    -0.9916658041229554,
+    -0.35
+  ],
+  "('DEATH_FAR', 'DEATH_FAR', 'DEATH_NEAR', 'RED_NEAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_FAR', 'GREEN_FAR', 'DEATH_NEAR')": [
+    -0.35,
+    -0.35,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_FAR', 'GREEN_MID', 'DEATH_NEAR')": [
+    -0.5774999999999999,
+    0.39826073437499987,
+    -0.5774999999999999,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_FAR', 'GREEN_NEAR', 'DEATH_NEAR')": [
+    -0.35,
+    6.961939985102683,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_FAR', 'RED_MID', 'DEATH_NEAR')": [
+    -0.5774999999999999,
+    -0.35,
+    -0.5774999999999999,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_FAR', 'RED_NEAR', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_MID', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -1.049136084052898,
+    -1.2127713851031336,
+    -1.116599859375,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_MID', 'DEATH_MID', 'DEATH_NEAR')": [
+    -0.9999999702999652,
+    -1.413343472646733,
+    -1.0938194244072266,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_MID', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -0.9999999999999999,
+    0.0,
+    -1.2878947556019333,
+    -1.1608518690234373
+  ],
+  "('DEATH_FAR', 'DEATH_MID', 'DEATH_NEAR', 'DEATH_MID')": [
+    -0.35,
+    0.0,
+    -0.35,
+    -0.6504167470400612
+  ],
+  "('DEATH_FAR', 'DEATH_MID', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    -1.259905528430291,
+    -42.0,
+    -1.2754577288986275,
+    -42.0
+  ],
+  "('DEATH_FAR', 'DEATH_MID', 'DEATH_NEAR', 'GREEN_FAR')": [
+    -0.8839709374999999,
+    0.0,
+    -1.0467569273437498,
+    -0.9378687499999999
+  ],
+  "('DEATH_FAR', 'DEATH_MID', 'DEATH_NEAR', 'GREEN_MID')": [
+    -0.35,
+    0.0,
+    -0.35,
+    -0.35
+  ],
+  "('DEATH_FAR', 'DEATH_MID', 'DEATH_NEAR', 'GREEN_NEAR')": [
+    -0.35,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_MID', 'DEATH_NEAR', 'RED_FAR')": [
+    -0.7253749999999999,
+    0.0,
+    -0.6574232188671875,
+    -0.5774999999999999
+  ],
+  "('DEATH_FAR', 'DEATH_MID', 'DEATH_NEAR', 'RED_MID')": [
+    -0.35,
+    0.0,
+    -0.35,
+    -0.35
+  ],
+  "('DEATH_FAR', 'DEATH_MID', 'DEATH_NEAR', 'RED_NEAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    -3.2715096095232368
+  ],
+  "('DEATH_FAR', 'DEATH_MID', 'GREEN_FAR', 'DEATH_NEAR')": [
+    -0.35,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_MID', 'GREEN_MID', 'DEATH_NEAR')": [
+    -0.35,
+    1.590378125,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_MID', 'GREEN_NEAR', 'DEATH_NEAR')": [
+    0.0,
+    8.551369471096724,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_MID', 'RED_FAR', 'DEATH_NEAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_MID', 'RED_MID', 'DEATH_NEAR')": [
+    -0.35,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_MID', 'RED_NEAR', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_FAR')": [
+    -1.114608291308537,
+    -1.2939203153663046,
+    0.0,
+    0.9210531568251991
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_MID')": [
+    -1.116371246059864,
+    -0.9999993298982236,
+    0.0,
+    -1.22412439296875
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -1.9848825479971097,
+    -2.0118230318757084,
+    -42.0,
+    -42.0
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'DEATH_FAR', 'GREEN_FAR')": [
+    -0.5774999999999999,
+    -0.5774999999999999,
+    -42.0,
+    -0.693875
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'DEATH_FAR', 'GREEN_MID')": [
+    -1.0536472920828546,
+    -0.7950401226395434,
+    0.0,
+    2.0060917187499996
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'DEATH_FAR', 'GREEN_NEAR')": [
+    -0.35,
+    -0.5774999999999999,
+    0.0,
+    8.192588132834668
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'DEATH_FAR', 'RED_FAR')": [
+    -0.35,
+    -0.35,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'DEATH_FAR', 'RED_MID')": [
+    -0.35,
+    -0.35,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'DEATH_MID', 'DEATH_FAR')": [
+    -1.4740484719278164,
+    -1.6199180695808493,
+    -42.0,
+    -1.4975213002825538
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'DEATH_MID', 'DEATH_MID')": [
+    -1.040956109375,
+    -0.9940311414824218,
+    0.0,
+    -1.1904703818738203
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'DEATH_MID', 'DEATH_NEAR')": [
+    -1.3989638602611165,
+    -1.1121448922432204,
+    -42.0,
+    -42.0
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'DEATH_MID', 'GREEN_FAR')": [
+    -0.5774999999999999,
+    -0.7294396875371296,
+    0.0,
+    -0.5774999999999999
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'DEATH_MID', 'GREEN_MID')": [
+    -0.35,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'DEATH_MID', 'GREEN_NEAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'DEATH_MID', 'RED_NEAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    -3.807423218867187
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -0.9735011628748176,
+    -42.0,
+    -42.0,
+    -1.6864320448959043
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'DEATH_NEAR', 'DEATH_MID')": [
+    -0.7253749999999999,
+    -42.0,
+    -42.0,
+    -1.17495524983467
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    -1.3055428164017613,
+    -42.0,
+    -42.0,
+    -42.0
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'DEATH_NEAR', 'GREEN_FAR')": [
+    -0.7045720781620116,
+    -42.0,
+    -42.0,
+    -0.5774999999999999
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'DEATH_NEAR', 'GREEN_MID')": [
+    0.0,
+    0.0,
+    -42.0,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'DEATH_NEAR', 'RED_MID')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'GREEN_FAR', 'DEATH_FAR')": [
+    1.3426874999999998,
+    -0.35,
+    0.0,
+    -0.5774999999999999
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'GREEN_FAR', 'DEATH_MID')": [
+    -0.35,
+    -0.35,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'GREEN_FAR', 'DEATH_NEAR')": [
+    -0.5911871874999999,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'GREEN_FAR', 'RED_FAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'GREEN_FAR', 'RED_MID')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'GREEN_MID', 'DEATH_FAR')": [
+    -0.7253749999999999,
+    1.522755105117285,
+    0.0,
+    -0.7253749999999999
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'GREEN_MID', 'DEATH_MID')": [
+    -0.35,
+    -0.01043755234374999,
+    0.0,
+    -0.5420187499999999
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'GREEN_MID', 'DEATH_NEAR')": [
+    -0.623146671875,
+    0.0,
+    -42.0,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'GREEN_MID', 'GREEN_FAR')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'GREEN_MID', 'GREEN_MID')": [
+    0.0,
+    0.0,
+    0.0,
+    0.8137499999999999
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'GREEN_NEAR', 'DEATH_FAR')": [
+    -0.35,
+    7.25375,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'GREEN_NEAR', 'DEATH_MID')": [
+    0.0,
+    9.24581109375,
+    0.0,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'GREEN_NEAR', 'DEATH_NEAR')": [
+    -0.35,
+    3.5,
+    0.0,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'RED_FAR', 'DEATH_FAR')": [
+    -0.35,
+    -0.35,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'RED_FAR', 'DEATH_MID')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'RED_FAR', 'GREEN_MID')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'RED_MID', 'DEATH_FAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'RED_MID', 'DEATH_MID')": [
+    0.0,
+    -0.35,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'RED_MID', 'GREEN_NEAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_FAR', 'DEATH_NEAR', 'RED_NEAR', 'DEATH_FAR')": [
+    -0.5774999999999999,
+    -3.5,
+    0.0,
+    -0.6439203367187499
+  ],
+  "('DEATH_FAR', 'GREEN_FAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_FAR', 'GREEN_FAR', 'DEATH_MID', 'DEATH_NEAR')": [
+    -0.35,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_FAR', 'GREEN_FAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -0.5774999999999999,
+    0.0,
+    -0.35,
+    -0.35
+  ],
+  "('DEATH_FAR', 'GREEN_FAR', 'DEATH_NEAR', 'DEATH_MID')": [
+    -0.5774999999999999,
+    0.0,
+    -0.35,
+    -1.1103818625704305
+  ],
+  "('DEATH_FAR', 'GREEN_FAR', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    -0.7351654830621006,
+    0.0,
+    -0.35,
+    -42.0
+  ],
+  "('DEATH_FAR', 'GREEN_FAR', 'DEATH_NEAR', 'GREEN_NEAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_FAR', 'GREEN_MID', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -0.5774999999999999,
+    -0.7253749999999999,
+    -0.5774999999999999,
+    0.0
+  ],
+  "('DEATH_FAR', 'GREEN_MID', 'DEATH_MID', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    0.17893749999999997,
+    0.0
+  ],
+  "('DEATH_FAR', 'GREEN_MID', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -0.8214937499999999,
+    0.0,
+    0.34225624999999993,
+    -0.7483162728274941
+  ],
+  "('DEATH_FAR', 'GREEN_MID', 'DEATH_NEAR', 'GREEN_MID')": [
+    -0.35,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_FAR', 'GREEN_NEAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -0.466375,
+    -0.35,
+    5.775,
+    0.0
+  ],
+  "('DEATH_FAR', 'GREEN_NEAR', 'DEATH_MID', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    8.2149375,
+    0.0
+  ],
+  "('DEATH_FAR', 'GREEN_NEAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_FAR', 'RED_FAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -0.5774999999999999,
+    -0.5774999999999999,
+    -0.7253749999999999,
+    0.0
+  ],
+  "('DEATH_FAR', 'RED_FAR', 'DEATH_MID', 'DEATH_NEAR')": [
+    -0.35,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_FAR', 'RED_FAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_FAR', 'RED_FAR', 'DEATH_NEAR', 'DEATH_MID')": [
+    0.0,
+    0.0,
+    -0.35,
+    -0.7105997474713868
+  ],
+  "('DEATH_FAR', 'RED_FAR', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    -0.9243468508053074,
+    0.0,
+    -0.5774999999999999,
+    -42.0
+  ],
+  "('DEATH_FAR', 'RED_MID', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -0.8214937499999999,
+    -0.7253749999999999,
+    -0.7253749999999999,
+    0.0
+  ],
+  "('DEATH_FAR', 'RED_MID', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -0.5774999999999999,
+    0.0,
+    -0.5774999999999999,
+    -0.7253749999999999
+  ],
+  "('DEATH_FAR', 'RED_MID', 'DEATH_NEAR', 'DEATH_MID')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_FAR', 'RED_MID', 'DEATH_NEAR', 'GREEN_NEAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_FAR', 'RED_NEAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -0.35,
+    0.0,
+    -3.5,
+    0.0
+  ],
+  "('DEATH_FAR', 'RED_NEAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -0.35,
+    0.0,
+    -3.5,
+    -0.35
+  ],
+  "('DEATH_FAR', 'RED_NEAR', 'DEATH_NEAR', 'DEATH_MID')": [
+    0.0,
+    0.0,
+    -3.5,
+    0.0
+  ],
+  "('DEATH_FAR', 'RED_NEAR', 'DEATH_NEAR', 'GREEN_NEAR')": [
+    0.0,
+    0.0,
+    0.0,
+    3.6736992520703122
+  ],
+  "('DEATH_MID', 'DEATH_FAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -1.5487859942576778,
+    -0.752679686470928,
+    -0.998984654832179,
+    0.0
+  ],
+  "('DEATH_MID', 'DEATH_FAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -1.0759896875,
+    0.0,
+    -1.116257190452064,
+    -0.9092527940867128
+  ],
+  "('DEATH_MID', 'DEATH_FAR', 'DEATH_NEAR', 'DEATH_MID')": [
+    -0.9681355187109375,
+    0.0,
+    -0.9681355187109375,
+    -0.95097772109375
+  ],
+  "('DEATH_MID', 'DEATH_FAR', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    -0.5774999999999999,
+    -42.0,
+    -0.5774999999999999,
+    -42.0
+  ],
+  "('DEATH_MID', 'DEATH_FAR', 'DEATH_NEAR', 'GREEN_MID')": [
+    -0.35,
+    0.0,
+    -0.35,
+    -0.2913705876757813
+  ],
+  "('DEATH_MID', 'DEATH_FAR', 'DEATH_NEAR', 'GREEN_NEAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    3.5
+  ],
+  "('DEATH_MID', 'DEATH_FAR', 'DEATH_NEAR', 'RED_MID')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_MID', 'DEATH_FAR', 'DEATH_NEAR', 'RED_NEAR')": [
+    0.0,
+    0.0,
+    0.0,
+    -3.5
+  ],
+  "('DEATH_MID', 'DEATH_FAR', 'GREEN_FAR', 'DEATH_NEAR')": [
+    -0.35,
+    -0.5774999999999999,
+    -0.5774999999999999,
+    0.0
+  ],
+  "('DEATH_MID', 'DEATH_FAR', 'GREEN_MID', 'DEATH_NEAR')": [
+    -0.466375,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_MID', 'DEATH_FAR', 'RED_FAR', 'DEATH_NEAR')": [
+    -0.8692295137947648,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_MID', 'DEATH_FAR', 'RED_MID', 'DEATH_NEAR')": [
+    -0.5774999999999999,
+    -0.5774999999999999,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_MID', 'DEATH_MID', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -0.978265421875,
+    -0.9681355187109375,
+    -0.9681355187109375,
+    0.0
+  ],
+  "('DEATH_MID', 'DEATH_MID', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -1.319214092339517,
+    0.0,
+    -1.270743488045838,
+    -0.9862660574994396
+  ],
+  "('DEATH_MID', 'DEATH_MID', 'DEATH_NEAR', 'GREEN_FAR')": [
+    -0.35,
+    0.0,
+    -0.5774999999999999,
+    -0.4879785121572266
+  ],
+  "('DEATH_MID', 'DEATH_MID', 'DEATH_NEAR', 'GREEN_MID')": [
+    -0.35,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_MID', 'DEATH_MID', 'DEATH_NEAR', 'GREEN_NEAR')": [
+    0.0,
+    0.0,
+    0.0,
+    5.699356249999999
+  ],
+  "('DEATH_MID', 'DEATH_MID', 'DEATH_NEAR', 'RED_FAR')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_MID', 'DEATH_MID', 'DEATH_NEAR', 'RED_MID')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_MID', 'DEATH_MID', 'DEATH_NEAR', 'RED_NEAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_MID', 'DEATH_MID', 'GREEN_FAR', 'DEATH_NEAR')": [
+    -0.35,
+    -0.5774999999999999,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_MID', 'DEATH_MID', 'GREEN_MID', 'DEATH_NEAR')": [
+    -0.7547149039032763,
+    0.0,
+    -0.466375,
+    0.0
+  ],
+  "('DEATH_MID', 'DEATH_MID', 'RED_FAR', 'DEATH_NEAR')": [
+    -0.35,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_FAR')": [
+    -1.1832679668259911,
+    -1.2711630928002169,
+    0.0,
+    -0.9999999427286708
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_MID')": [
+    -1.0759896875,
+    -0.9981141354438543,
+    0.0,
+    -1.1863307409368942
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -1.270327605848386,
+    -0.9975884898437499,
+    -42.0,
+    -42.0
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'DEATH_FAR', 'GREEN_FAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    -0.08547409983300791
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'DEATH_FAR', 'GREEN_MID')": [
+    0.0,
+    0.0,
+    0.0,
+    2.940817449609375
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'DEATH_FAR', 'GREEN_NEAR')": [
+    0.0,
+    0.0,
+    0.0,
+    8.839709375
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'DEATH_FAR', 'RED_FAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'DEATH_FAR', 'RED_MID')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'DEATH_FAR', 'RED_NEAR')": [
+    0.0,
+    0.0,
+    0.0,
+    -3.5
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'DEATH_MID', 'DEATH_FAR')": [
+    0.0,
+    -0.466375,
+    0.0,
+    0.2969438562735758
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -1.1933545863052735,
+    -42.0,
+    -42.0,
+    0.6936843777222775
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'GREEN_FAR', 'DEATH_FAR')": [
+    -0.5807134374999999,
+    -0.35,
+    0.0,
+    -0.5233552716605474
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'GREEN_FAR', 'DEATH_MID')": [
+    -0.9528936235041872,
+    -0.8214937499999999,
+    0.0,
+    -0.8186871874999999
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'GREEN_FAR', 'DEATH_NEAR')": [
+    -0.35,
+    -0.35,
+    0.0,
+    -42.0
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'GREEN_MID', 'DEATH_FAR')": [
+    -1.0020551327773437,
+    -0.5774999999999999,
+    0.0,
+    -0.5774999999999999
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'GREEN_MID', 'DEATH_MID')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'GREEN_NEAR', 'DEATH_NEAR')": [
+    0.0,
+    3.2588128125,
+    0.0,
+    0.0
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'RED_FAR', 'DEATH_FAR')": [
+    -0.5911871874999999,
+    -0.5774999999999999,
+    0.0,
+    -0.5774999999999999
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'RED_FAR', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    -42.0,
+    0.0
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'RED_MID', 'DEATH_FAR')": [
+    -0.35,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'RED_MID', 'DEATH_MID')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'RED_MID', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    0.0,
+    -42.0
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'RED_NEAR', 'DEATH_MID')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_MID', 'DEATH_NEAR', 'RED_NEAR', 'DEATH_NEAR')": [
+    -0.35,
+    -3.5,
+    0.0,
+    0.0
+  ],
+  "('DEATH_MID', 'GREEN_FAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -0.35,
+    -0.35,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_MID', 'GREEN_FAR', 'DEATH_MID', 'DEATH_NEAR')": [
+    -0.6719050599713867,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_MID', 'GREEN_FAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_MID', 'GREEN_FAR', 'DEATH_NEAR', 'DEATH_MID')": [
+    -0.35,
+    0.0,
+    -0.35,
+    -0.5420187499999999
+  ],
+  "('DEATH_MID', 'GREEN_FAR', 'DEATH_NEAR', 'RED_NEAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_MID', 'GREEN_MID', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -0.35,
+    -0.35,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_MID', 'GREEN_MID', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_MID', 'GREEN_MID', 'DEATH_NEAR', 'DEATH_MID')": [
+    -0.693875,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_MID', 'GREEN_MID', 'DEATH_NEAR', 'RED_NEAR')": [
+    0.0,
+    0.0,
+    0.0,
+    -3.5
+  ],
+  "('DEATH_MID', 'GREEN_NEAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_MID', 'RED_FAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_MID', 'RED_FAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_MID', 'RED_FAR', 'DEATH_NEAR', 'DEATH_MID')": [
+    -0.35,
+    0.0,
+    -0.35,
+    -0.35
+  ],
+  "('DEATH_MID', 'RED_FAR', 'GREEN_MID', 'DEATH_NEAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_MID', 'RED_MID', 'DEATH_FAR', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_MID', 'RED_MID', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -0.5774999999999999,
+    0.0,
+    -0.35,
+    -0.35
+  ],
+  "('DEATH_MID', 'RED_MID', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    0.0,
+    -42.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_MID', 'RED_MID', 'DEATH_NEAR', 'GREEN_FAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_MID', 'RED_NEAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -0.35,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_MID', 'RED_NEAR', 'GREEN_MID', 'DEATH_NEAR')": [
+    0.0,
+    1.51194371163999,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_FAR', 'DEATH_FAR')": [
+    0.0,
+    -0.760065683387812,
+    -1.2939200536007494,
+    -1.311840923808845
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_FAR', 'DEATH_MID')": [
+    0.0,
+    -0.44148409297319535,
+    -1.270743488045838,
+    -1.22412439296875
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -42.0,
+    -1.5224223827609176,
+    -1.3166405911249721,
+    -42.0
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_FAR', 'GREEN_FAR')": [
+    0.0,
+    -0.5774999999999999,
+    -0.5774999999999999,
+    -0.7071771328125
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_FAR', 'GREEN_MID')": [
+    0.0,
+    -0.5774999999999999,
+    -0.5774999999999999,
+    1.1948124999999998
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_FAR', 'GREEN_NEAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    8.975199396724433
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_FAR', 'RED_FAR')": [
+    0.0,
+    -0.5774999999999999,
+    -0.5774999999999999,
+    -0.5774999999999999
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_FAR', 'RED_MID')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_FAR', 'RED_NEAR')": [
+    0.0,
+    0.0,
+    -0.623146671875,
+    -4.095863654949722
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_MID', 'DEATH_FAR')": [
+    0.0,
+    -1.2600014984374999,
+    -0.5385311885267059,
+    -1.2804575933741211
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_MID', 'DEATH_MID')": [
+    0.0,
+    -1.509147984947231,
+    -1.004837657148689,
+    0.13219314424208273
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_MID', 'DEATH_NEAR')": [
+    -42.0,
+    -1.384453919925781,
+    -1.0837960297636717,
+    -42.0
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_MID', 'GREEN_FAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_MID', 'GREEN_MID')": [
+    0.0,
+    0.0,
+    -0.35,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_MID', 'GREEN_NEAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    3.5
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_MID', 'RED_MID')": [
+    0.0,
+    -0.35,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_MID', 'RED_NEAR')": [
+    0.0,
+    0.0,
+    0.0,
+    -3.5
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -42.0,
+    -42.0,
+    -1.800056346538031,
+    -1.7197552329135926
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_NEAR', 'DEATH_MID')": [
+    -42.0,
+    -42.0,
+    -1.665619161574868,
+    -1.750881192773568
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    -42.0,
+    -42.0,
+    -1.2682575564242269,
+    -42.0
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_NEAR', 'GREEN_FAR')": [
+    0.0,
+    -42.0,
+    -0.35,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'DEATH_NEAR', 'GREEN_MID')": [
+    -42.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'GREEN_FAR', 'DEATH_FAR')": [
+    0.0,
+    -0.5774999999999999,
+    -0.35,
+    -0.5774999999999999
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'GREEN_FAR', 'DEATH_MID')": [
+    0.0,
+    -0.35,
+    -0.9623334257961295,
+    -0.5774999999999999
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'GREEN_FAR', 'DEATH_NEAR')": [
+    -42.0,
+    0.0,
+    -0.35,
+    -42.0
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'GREEN_FAR', 'GREEN_NEAR')": [
+    0.0,
+    0.0,
+    -0.6662000922636718,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'GREEN_FAR', 'RED_MID')": [
+    0.0,
+    0.0,
+    -0.7630129627632763,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'GREEN_MID', 'DEATH_FAR')": [
+    0.0,
+    6.352890125662688,
+    -0.5774999999999999,
+    -0.5774999999999999
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'GREEN_MID', 'DEATH_MID')": [
+    0.0,
+    -0.35,
+    -0.35,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'GREEN_MID', 'GREEN_FAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'GREEN_NEAR', 'DEATH_FAR')": [
+    0.0,
+    9.487819867632563,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'GREEN_NEAR', 'DEATH_MID')": [
+    0.0,
+    8.16220435078125,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'RED_FAR', 'DEATH_FAR')": [
+    0.0,
+    -0.35,
+    -0.5774999999999999,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'RED_FAR', 'DEATH_NEAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'RED_MID', 'DEATH_FAR')": [
+    0.0,
+    -0.35,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'RED_MID', 'DEATH_MID')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'RED_NEAR', 'DEATH_FAR')": [
+    0.0,
+    -3.5,
+    -0.35,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'DEATH_FAR', 'RED_NEAR', 'DEATH_MID')": [
+    0.0,
+    -3.5,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'DEATH_FAR', 'DEATH_FAR')": [
+    0.0,
+    -0.9993400256409164,
+    -1.1251581249999998,
+    -0.9938510793871059
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'DEATH_FAR', 'DEATH_MID')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -42.0,
+    -0.7253749999999999,
+    -1.0917205106998795,
+    -42.0
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'DEATH_FAR', 'GREEN_FAR')": [
+    0.0,
+    -0.35,
+    -0.35,
+    -0.693875
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'DEATH_FAR', 'GREEN_MID')": [
+    0.0,
+    -0.35,
+    -0.35,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'DEATH_FAR', 'GREEN_NEAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'DEATH_FAR', 'RED_FAR')": [
+    0.0,
+    -0.35,
+    -0.5774999999999999,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'DEATH_FAR', 'RED_MID')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'DEATH_FAR', 'RED_NEAR')": [
+    0.0,
+    0.0,
+    0.0,
+    -3.5
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'DEATH_MID', 'DEATH_FAR')": [
+    0.0,
+    -1.3023353735136718,
+    -1.3861692197564748,
+    -1.3951812279932203
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'DEATH_MID', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    -0.5420187499999999,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'DEATH_MID', 'GREEN_FAR')": [
+    0.0,
+    -0.828022969604607,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'DEATH_MID', 'RED_FAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'DEATH_MID', 'RED_MID')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'DEATH_MID', 'RED_NEAR')": [
+    0.0,
+    -0.6574232188671875,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -42.0,
+    -42.0,
+    -1.7590044550294086,
+    -1.6232386252478836
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    -42.0,
+    -42.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'DEATH_NEAR', 'RED_FAR')": [
+    -42.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'GREEN_FAR', 'DEATH_FAR')": [
+    0.0,
+    -0.5774999999999999,
+    -1.0526580988134324,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'GREEN_FAR', 'DEATH_NEAR')": [
+    -42.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'GREEN_MID', 'DEATH_FAR')": [
+    0.0,
+    0.0,
+    -0.7707560394576825,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'GREEN_NEAR', 'DEATH_FAR')": [
+    0.0,
+    8.03739216328125,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'RED_FAR', 'DEATH_FAR')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'RED_MID', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_MID', 'RED_NEAR', 'DEATH_FAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_FAR')": [
+    -42.0,
+    -1.3067089298046874,
+    -42.0,
+    -0.9865847566268111
+  ],
+  "('DEATH_NEAR', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_MID')": [
+    0.0,
+    -0.07259864188737064,
+    -42.0,
+    -0.5774999999999999
+  ],
+  "('DEATH_NEAR', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -42.0,
+    -1.1326336257001512,
+    -42.0,
+    -42.0
+  ],
+  "('DEATH_NEAR', 'DEATH_NEAR', 'DEATH_FAR', 'GREEN_FAR')": [
+    0.0,
+    0.0,
+    -42.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_NEAR', 'DEATH_FAR', 'GREEN_MID')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_NEAR', 'DEATH_FAR', 'RED_FAR')": [
+    0.0,
+    -0.623146671875,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_NEAR', 'DEATH_FAR', 'RED_NEAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_NEAR', 'DEATH_MID', 'DEATH_FAR')": [
+    -42.0,
+    -1.0842761781241106,
+    -42.0,
+    -1.3988403158587401
+  ],
+  "('DEATH_NEAR', 'DEATH_NEAR', 'DEATH_MID', 'DEATH_MID')": [
+    0.0,
+    -0.6690718835937499,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_NEAR', 'DEATH_MID', 'DEATH_NEAR')": [
+    -42.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_NEAR', 'DEATH_MID', 'GREEN_FAR')": [
+    0.0,
+    0.0,
+    -42.0,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'DEATH_NEAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -42.0,
+    -42.0,
+    -42.0,
+    -1.2068778549745822
+  ],
+  "('DEATH_NEAR', 'DEATH_NEAR', 'DEATH_NEAR', 'GREEN_MID')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'DEATH_NEAR', 'DEATH_NEAR', 'RED_MID')": [
+    0.0,
+    -42.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_NEAR', 'GREEN_FAR', 'DEATH_MID')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_NEAR', 'GREEN_FAR', 'DEATH_NEAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_NEAR', 'GREEN_MID', 'DEATH_MID')": [
+    0.0,
+    1.52868744765625,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_NEAR', 'RED_FAR', 'DEATH_FAR')": [
+    -42.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_NEAR', 'RED_MID', 'DEATH_FAR')": [
+    -42.0,
+    -0.35,
+    -42.0,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'DEATH_NEAR', 'RED_MID', 'DEATH_NEAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'DEATH_NEAR', 'RED_NEAR', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    -42.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'GREEN_FAR', 'DEATH_FAR', 'DEATH_FAR')": [
+    0.0,
+    -0.35,
+    -0.35,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'GREEN_FAR', 'DEATH_FAR', 'DEATH_MID')": [
+    0.0,
+    -0.5774999999999999,
+    -0.5774999999999999,
+    -0.5774999999999999
+  ],
+  "('DEATH_NEAR', 'GREEN_FAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    0.0,
+    -0.9275823698476561,
+    -0.35,
+    -42.0
+  ],
+  "('DEATH_NEAR', 'GREEN_FAR', 'DEATH_FAR', 'GREEN_NEAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_NEAR', 'GREEN_FAR', 'DEATH_MID', 'DEATH_FAR')": [
+    0.0,
+    -0.35,
+    -0.40162828125000005,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'GREEN_FAR', 'DEATH_MID', 'DEATH_MID')": [
+    0.0,
+    -1.0440661947748406,
+    -0.35,
+    -0.5774999999999999
+  ],
+  "('DEATH_NEAR', 'GREEN_FAR', 'DEATH_MID', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_NEAR', 'GREEN_FAR', 'DEATH_MID', 'RED_NEAR')": [
+    0.0,
+    -0.8487010897037648,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'GREEN_FAR', 'DEATH_NEAR', 'DEATH_MID')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'GREEN_FAR', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    0.0,
+    -42.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_NEAR', 'GREEN_FAR', 'DEATH_NEAR', 'RED_NEAR')": [
+    -42.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'GREEN_MID', 'DEATH_FAR', 'DEATH_FAR')": [
+    0.0,
+    -0.35,
+    -0.5774999999999999,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'GREEN_MID', 'DEATH_FAR', 'DEATH_MID')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'GREEN_MID', 'DEATH_FAR', 'GREEN_MID')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'GREEN_MID', 'DEATH_MID', 'DEATH_FAR')": [
+    0.0,
+    -0.5774999999999999,
+    -0.5774999999999999,
+    1.8343718749999995
+  ],
+  "('DEATH_NEAR', 'GREEN_MID', 'DEATH_MID', 'RED_MID')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_NEAR', 'GREEN_MID', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    0.0,
+    -42.0
+  ],
+  "('DEATH_NEAR', 'GREEN_MID', 'GREEN_MID', 'DEATH_FAR')": [
+    0.0,
+    0.09644359374999995,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'GREEN_NEAR', 'DEATH_FAR', 'DEATH_FAR')": [
+    0.0,
+    -0.35,
+    3.5,
+    0.0
+  ],
+  "('DEATH_NEAR', 'GREEN_NEAR', 'DEATH_FAR', 'GREEN_FAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'GREEN_NEAR', 'DEATH_MID', 'DEATH_FAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'GREEN_NEAR', 'RED_MID', 'DEATH_FAR')": [
+    0.0,
+    0.0,
+    3.5,
+    0.0
+  ],
+  "('DEATH_NEAR', 'RED_FAR', 'DEATH_FAR', 'DEATH_FAR')": [
+    0.0,
+    -0.5774999999999999,
+    -0.5774999999999999,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'RED_FAR', 'DEATH_FAR', 'DEATH_MID')": [
+    0.0,
+    -0.5774999999999999,
+    -0.35,
+    -0.7241150765624998
+  ],
+  "('DEATH_NEAR', 'RED_FAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_NEAR', 'RED_FAR', 'DEATH_MID', 'DEATH_FAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'RED_FAR', 'DEATH_MID', 'DEATH_MID')": [
+    0.0,
+    -0.35,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'RED_FAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_NEAR', 'RED_FAR', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    0.0,
+    -42.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'RED_FAR', 'GREEN_FAR', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_NEAR', 'RED_MID', 'DEATH_FAR', 'DEATH_FAR')": [
+    0.0,
+    -0.8214937499999999,
+    -0.8214937499999999,
+    -0.8214937499999999
+  ],
+  "('DEATH_NEAR', 'RED_MID', 'DEATH_FAR', 'DEATH_MID')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('DEATH_NEAR', 'RED_MID', 'DEATH_MID', 'DEATH_FAR')": [
+    0.0,
+    -0.7206325546874999,
+    0.0,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'RED_MID', 'DEATH_MID', 'DEATH_MID')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'RED_MID', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -42.0,
+    0.0,
+    -0.35,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'RED_MID', 'DEATH_NEAR', 'DEATH_MID')": [
+    0.0,
+    -42.0,
+    0.0,
+    -0.8626234612841079
+  ],
+  "('DEATH_NEAR', 'RED_MID', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    -42.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'RED_MID', 'GREEN_FAR', 'DEATH_FAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'RED_NEAR', 'DEATH_FAR', 'DEATH_FAR')": [
+    0.0,
+    -0.35,
+    -3.79392033671875,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'RED_NEAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('DEATH_NEAR', 'RED_NEAR', 'DEATH_MID', 'GREEN_MID')": [
+    0.0,
+    0.0,
+    -3.5,
+    -0.35
+  ],
+  "('DEATH_NEAR', 'RED_NEAR', 'GREEN_NEAR', 'DEATH_FAR')": [
+    0.0,
+    0.0,
+    -3.5,
+    0.0
+  ],
+  "('GREEN_FAR', 'DEATH_FAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -0.5774999999999999,
+    0.021257712783951332,
+    -0.5774999999999999,
+    0.0
+  ],
+  "('GREEN_FAR', 'DEATH_FAR', 'DEATH_MID', 'DEATH_NEAR')": [
+    -0.7253749999999999,
+    -1.303206455949312,
+    -0.7253749999999999,
+    0.0
+  ],
+  "('GREEN_FAR', 'DEATH_FAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -0.7253749999999999,
+    0.0,
+    -0.7253749999999999,
+    -0.7773250922636719
+  ],
+  "('GREEN_FAR', 'DEATH_FAR', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    0.0,
+    -42.0,
+    -0.35,
+    0.0
+  ],
+  "('GREEN_FAR', 'DEATH_FAR', 'GREEN_MID', 'DEATH_NEAR')": [
+    0.0,
+    2.0348968409765624,
+    -0.35,
+    0.0
+  ],
+  "('GREEN_FAR', 'DEATH_MID', 'DEATH_FAR', 'DEATH_NEAR')": [
+    0.0,
+    -0.35,
+    -0.35,
+    0.0
+  ],
+  "('GREEN_FAR', 'DEATH_MID', 'DEATH_MID', 'DEATH_NEAR')": [
+    -0.5774999999999999,
+    -1.0045899302429944,
+    -0.35,
+    0.0
+  ],
+  "('GREEN_FAR', 'DEATH_MID', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -0.35,
+    0.0,
+    -0.35,
+    -0.6689448256244258
+  ],
+  "('GREEN_FAR', 'DEATH_MID', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    -0.35,
+    -42.0,
+    -0.5420187499999999,
+    -42.0
+  ],
+  "('GREEN_FAR', 'DEATH_MID', 'DEATH_NEAR', 'RED_FAR')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('GREEN_FAR', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_FAR')": [
+    -0.7253749999999999,
+    -0.5774999999999999,
+    0.0,
+    -0.7253749999999999
+  ],
+  "('GREEN_FAR', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_MID')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('GREEN_FAR', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -0.35,
+    -0.35,
+    -42.0,
+    0.0
+  ],
+  "('GREEN_FAR', 'DEATH_NEAR', 'DEATH_FAR', 'RED_FAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('GREEN_FAR', 'DEATH_NEAR', 'DEATH_FAR', 'RED_NEAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('GREEN_FAR', 'DEATH_NEAR', 'DEATH_MID', 'DEATH_FAR')": [
+    -0.5774999999999999,
+    -1.0225302806776708,
+    0.0,
+    -0.9658469031490575
+  ],
+  "('GREEN_FAR', 'DEATH_NEAR', 'DEATH_MID', 'DEATH_MID')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('GREEN_FAR', 'DEATH_NEAR', 'DEATH_MID', 'DEATH_NEAR')": [
+    -0.35,
+    -0.8570591733983398,
+    -42.0,
+    0.0
+  ],
+  "('GREEN_FAR', 'DEATH_NEAR', 'DEATH_MID', 'GREEN_FAR')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('GREEN_FAR', 'DEATH_NEAR', 'DEATH_MID', 'GREEN_MID')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('GREEN_FAR', 'DEATH_NEAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -0.35,
+    -42.0,
+    0.0,
+    0.0
+  ],
+  "('GREEN_FAR', 'DEATH_NEAR', 'DEATH_NEAR', 'RED_FAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('GREEN_FAR', 'DEATH_NEAR', 'DEATH_NEAR', 'RED_MID')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('GREEN_FAR', 'DEATH_NEAR', 'GREEN_NEAR', 'DEATH_MID')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.697911376966689
+  ],
+  "('GREEN_FAR', 'DEATH_NEAR', 'RED_NEAR', 'DEATH_FAR')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('GREEN_FAR', 'GREEN_MID', 'DEATH_MID', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    1.5701874999999998,
+    0.0
+  ],
+  "('GREEN_FAR', 'RED_FAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('GREEN_FAR', 'RED_FAR', 'DEATH_MID', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('GREEN_FAR', 'RED_FAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('GREEN_FAR', 'RED_MID', 'DEATH_MID', 'DEATH_NEAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('GREEN_MID', 'DEATH_FAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -0.5774999999999999,
+    -0.7253749999999999,
+    -0.5774999999999999,
+    0.0
+  ],
+  "('GREEN_MID', 'DEATH_FAR', 'DEATH_MID', 'DEATH_NEAR')": [
+    1.5701874999999998,
+    -0.35,
+    -0.35,
+    0.0
+  ],
+  "('GREEN_MID', 'DEATH_FAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -0.5774999999999999,
+    0.0,
+    -1.0687692308261716,
+    -0.7253749999999999
+  ],
+  "('GREEN_MID', 'DEATH_FAR', 'DEATH_NEAR', 'DEATH_MID')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('GREEN_MID', 'DEATH_FAR', 'DEATH_NEAR', 'GREEN_FAR')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('GREEN_MID', 'DEATH_FAR', 'GREEN_FAR', 'DEATH_NEAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('GREEN_MID', 'DEATH_MID', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -0.35,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('GREEN_MID', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_FAR')": [
+    -0.5774999999999999,
+    -0.5774999999999999,
+    0.0,
+    -0.7237428412735721
+  ],
+  "('GREEN_MID', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_MID')": [
+    0.0,
+    -0.35,
+    0.0,
+    -0.35
+  ],
+  "('GREEN_MID', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('GREEN_MID', 'DEATH_NEAR', 'DEATH_FAR', 'GREEN_FAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('GREEN_MID', 'DEATH_NEAR', 'DEATH_FAR', 'RED_FAR')": [
+    0.0,
+    -0.6574232188671875,
+    0.0,
+    0.0
+  ],
+  "('GREEN_MID', 'DEATH_NEAR', 'DEATH_MID', 'DEATH_FAR')": [
+    -0.35,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('GREEN_MID', 'DEATH_NEAR', 'DEATH_MID', 'DEATH_MID')": [
+    -0.35,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('GREEN_MID', 'DEATH_NEAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('GREEN_MID', 'DEATH_NEAR', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    0.0,
+    -42.0,
+    0.0,
+    0.0
+  ],
+  "('GREEN_MID', 'DEATH_NEAR', 'DEATH_NEAR', 'GREEN_FAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('GREEN_MID', 'DEATH_NEAR', 'GREEN_MID', 'DEATH_FAR')": [
+    0.0,
+    2.7242321886718743,
+    0.0,
+    0.0
+  ],
+  "('GREEN_MID', 'DEATH_NEAR', 'RED_MID', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    -42.0,
+    0.0
+  ],
+  "('GREEN_MID', 'GREEN_NEAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    3.0113065063751847,
+    0.0
+  ],
+  "('GREEN_MID', 'RED_MID', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('GREEN_NEAR', 'DEATH_FAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('GREEN_NEAR', 'DEATH_FAR', 'DEATH_MID', 'DEATH_NEAR')": [
+    0.0,
+    -0.7599072217374154,
+    0.0,
+    0.0
+  ],
+  "('GREEN_NEAR', 'DEATH_FAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    9.665621875,
+    0.0,
+    -0.35,
+    -0.35
+  ],
+  "('GREEN_NEAR', 'DEATH_MID', 'DEATH_FAR', 'DEATH_NEAR')": [
+    3.5,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('GREEN_NEAR', 'DEATH_MID', 'DEATH_MID', 'DEATH_NEAR')": [
+    0.0,
+    -0.6439203367187499,
+    0.0,
+    0.0
+  ],
+  "('GREEN_NEAR', 'DEATH_MID', 'DEATH_NEAR', 'DEATH_FAR')": [
+    3.5,
+    0.0,
+    -0.35,
+    -0.04280833529123636
+  ],
+  "('GREEN_NEAR', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_FAR')": [
+    9.517985893813288,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('GREEN_NEAR', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_MID')": [
+    3.5,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('GREEN_NEAR', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    0.0,
+    -0.4451663348882335,
+    0.0,
+    0.0
+  ],
+  "('GREEN_NEAR', 'DEATH_NEAR', 'DEATH_FAR', 'GREEN_MID')": [
+    3.5,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('GREEN_NEAR', 'DEATH_NEAR', 'DEATH_MID', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    -42.0,
+    0.0
+  ],
+  "('GREEN_NEAR', 'DEATH_NEAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    0.0,
+    -42.0,
+    0.0,
+    -0.35
+  ],
+  "('GREEN_NEAR', 'DEATH_NEAR', 'GREEN_FAR', 'DEATH_FAR')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('GREEN_NEAR', 'DEATH_NEAR', 'RED_MID', 'DEATH_NEAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('GREEN_NEAR', 'GREEN_MID', 'DEATH_FAR', 'DEATH_NEAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('RED_FAR', 'DEATH_FAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('RED_FAR', 'DEATH_FAR', 'DEATH_MID', 'DEATH_NEAR')": [
+    0.0,
+    -0.35,
+    -0.35,
+    0.0
+  ],
+  "('RED_FAR', 'DEATH_FAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -0.35,
+    0.0,
+    -0.5774999999999999,
+    -0.678743264818914
+  ],
+  "('RED_FAR', 'DEATH_FAR', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('RED_FAR', 'DEATH_MID', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('RED_FAR', 'DEATH_MID', 'DEATH_MID', 'DEATH_NEAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('RED_FAR', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_FAR')": [
+    -0.35,
+    -0.35,
+    0.0,
+    -0.35
+  ],
+  "('RED_FAR', 'DEATH_NEAR', 'DEATH_MID', 'DEATH_FAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('RED_FAR', 'DEATH_NEAR', 'DEATH_MID', 'DEATH_MID')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('RED_FAR', 'DEATH_NEAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -0.35,
+    -42.0,
+    0.0,
+    -0.35
+  ],
+  "('RED_FAR', 'DEATH_NEAR', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    0.0,
+    -42.0,
+    0.0,
+    0.0
+  ],
+  "('RED_FAR', 'GREEN_FAR', 'DEATH_MID', 'DEATH_NEAR')": [
+    0.0,
+    -0.7905307083074472,
+    0.0,
+    0.0
+  ],
+  "('RED_FAR', 'GREEN_FAR', 'GREEN_NEAR', 'DEATH_NEAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('RED_MID', 'DEATH_FAR', 'DEATH_MID', 'DEATH_MID')": [
+    -0.35,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('RED_MID', 'DEATH_FAR', 'DEATH_MID', 'DEATH_NEAR')": [
+    -0.35,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('RED_MID', 'DEATH_FAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('RED_MID', 'DEATH_FAR', 'DEATH_NEAR', 'DEATH_MID')": [
+    0.0,
+    0.0,
+    -0.6574232188671875,
+    0.0
+  ],
+  "('RED_MID', 'DEATH_FAR', 'DEATH_NEAR', 'GREEN_MID')": [
+    0.0,
+    -42.0,
+    0.0,
+    -0.35
+  ],
+  "('RED_MID', 'DEATH_FAR', 'GREEN_NEAR', 'DEATH_NEAR')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('RED_MID', 'DEATH_MID', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -0.35,
+    -0.35,
+    -0.5420187499999999,
+    0.0
+  ],
+  "('RED_MID', 'DEATH_MID', 'DEATH_MID', 'DEATH_NEAR')": [
+    -0.35,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('RED_MID', 'DEATH_MID', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('RED_MID', 'DEATH_MID', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('RED_MID', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_FAR')": [
+    -0.35,
+    -0.35,
+    0.0,
+    -0.5774999999999999
+  ],
+  "('RED_MID', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_MID')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('RED_MID', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('RED_MID', 'DEATH_NEAR', 'DEATH_FAR', 'GREEN_NEAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('RED_MID', 'DEATH_NEAR', 'DEATH_MID', 'DEATH_FAR')": [
+    -0.35,
+    -0.35,
+    0.0,
+    -0.5774999999999999
+  ],
+  "('RED_MID', 'DEATH_NEAR', 'DEATH_MID', 'DEATH_NEAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('RED_MID', 'DEATH_NEAR', 'DEATH_MID', 'GREEN_FAR')": [
+    0.0,
+    -0.850709910118189,
+    0.0,
+    0.0
+  ],
+  "('RED_MID', 'DEATH_NEAR', 'GREEN_FAR', 'DEATH_FAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    -0.35
+  ],
+  "('RED_MID', 'GREEN_FAR', 'DEATH_NEAR', 'GREEN_NEAR')": [
+    0.0,
+    0.0,
+    0.0,
+    3.5
+  ],
+  "('RED_MID', 'GREEN_MID', 'DEATH_MID', 'DEATH_NEAR')": [
+    -0.35,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('RED_MID', 'GREEN_MID', 'DEATH_NEAR', 'DEATH_FAR')": [
+    0.0,
+    0.0,
+    2.0618718749999996,
+    0.0
+  ],
+  "('RED_NEAR', 'DEATH_FAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    0.0,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('RED_NEAR', 'DEATH_FAR', 'DEATH_MID', 'DEATH_MID')": [
+    0.0,
+    0.0,
+    -0.35,
+    0.0
+  ],
+  "('RED_NEAR', 'DEATH_FAR', 'DEATH_MID', 'DEATH_NEAR')": [
+    0.0,
+    -0.7918364415768229,
+    0.0,
+    0.0
+  ],
+  "('RED_NEAR', 'DEATH_FAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -3.5,
+    0.0,
+    -0.35,
+    -0.35
+  ],
+  "('RED_NEAR', 'DEATH_FAR', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    0.0,
+    -42.0,
+    0.0,
+    0.0
+  ],
+  "('RED_NEAR', 'DEATH_MID', 'DEATH_NEAR', 'DEATH_FAR')": [
+    -3.5,
+    0.0,
+    -0.35,
+    -0.35
+  ],
+  "('RED_NEAR', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_FAR')": [
+    -3.5,
+    -0.35,
+    0.0,
+    0.0
+  ],
+  "('RED_NEAR', 'DEATH_NEAR', 'DEATH_FAR', 'DEATH_NEAR')": [
+    -3.5,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('RED_NEAR', 'DEATH_NEAR', 'DEATH_NEAR', 'DEATH_FAR')": [
+    0.0,
+    0.0,
+    0.0,
+    -0.6616458855760398
+  ],
+  "('RED_NEAR', 'DEATH_NEAR', 'DEATH_NEAR', 'DEATH_NEAR')": [
+    -3.5,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "('RED_NEAR', 'DEATH_NEAR', 'GREEN_FAR', 'GREEN_MID')": [
+    0.0,
+    0.0,
+    0.0,
+    2.0618718749999996
+  ]
+}
